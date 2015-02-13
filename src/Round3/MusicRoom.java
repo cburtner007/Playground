@@ -18,8 +18,9 @@ public class MusicRoom extends Room {
 		super.roomDescription +="Anyway.\n";
 		super.roomDescription +="The birds sitting on the window sill chirp oh so gleefully before they flutter away, chasing the wind across the rolling lawn of your father's estate.\n";
 		super.roomDescription +="You let out a very long, and very audible, sigh.\n";
-		super.roomDescription +="You let out a very long, and very audible, sigh.\n";
+		super.roomDescription +="Oh how you wish you were a bird right now. Or a cat\n";
 		super.roomDescription +="Your mother's voice cuts through the silence, 'ELIZAMORE!' she doesn't sound too happy\n";
+		super.roomDescription +="Blasted woman. Inturrupting your thoug 'ELIZAAAMMOOOOORRREEEEEE'\n";
 		super.roomDescription +="\n";
 	}
 }
